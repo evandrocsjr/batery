@@ -56,6 +56,12 @@ main{
     transition: 0.3s ease;
 }
 
+.items.mudar{
+    background-color: var(--pink);
+    color: white;
+    transition: 0.3s ease;
+}
+
 .comp{
     margin-top:10px;
     border-radius: 5px;
